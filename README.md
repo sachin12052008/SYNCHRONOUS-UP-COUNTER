@@ -38,9 +38,14 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC UP COUNTER**
+![rtlviewer(i) ex11](https://github.com/user-attachments/assets/2cd7b583-9500-4bcd-a201-d942cd4013f0)
+![wavefrom(i) ex11](https://github.com/user-attachments/assets/71ac3477-cf04-49e9-8c3c-94cee1e3570d)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![rtlviewer (ii) ex 11](https://github.com/user-attachments/assets/c1381212-7858-422a-b5a2-07a20515f6d9)
+![waveform (ii) ex11](https://github.com/user-attachments/assets/dc054307-ab83-4047-8cc0-b4b0d99a8947)
 
 **TRUTH TABLE**
 
 **RESULTS**
+the experiment done perfectly
